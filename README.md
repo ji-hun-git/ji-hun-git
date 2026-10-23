@@ -1,24 +1,28 @@
+<div align="center">
+
 # Jihun Chae
 
-Human-centered AI researcher · KAIST Graduate School of Culture Technology  
-**Focus:** game accessibility, adaptive AI agents, field research → working systems
+**Human-centered AI** · game accessibility · adaptive agents · HCI / XR  
+KAIST Graduate School of Culture Technology
 
-[Portfolio](https://ji-hun-git.github.io/) · [Email](mailto:chaejihun@kaist.ac.kr)
+[Portfolio](https://ji-hun-git.github.io/) ·
+[GAIA](https://github.com/ji-hun-git/GAIA_public) ·
+[Ethical Research](https://github.com/ji-hun-git/ethical-research) ·
+[Email](mailto:chaejihun@kaist.ac.kr)
 
-## Selected work
+</div>
 
-| Project | What it is | Repo |
-|---|---|---|
-| **GAIA** | Conversational game AI for players with disabilities (field study + desktop prototype) | [`GAIA_public`](https://github.com/ji-hun-git/GAIA_public) |
-| **Ethical Research** | Academic-integrity research copilot for Claude Code (refuses ghostwriting / fake cites) | [`ethical-research`](https://github.com/ji-hun-git/ethical-research) |
-| **Portfolio** | Bilingual CV / research site | [`ji-hun-git.github.io`](https://ji-hun-git.github.io/) |
+---
 
-## Research signal
+### What I build
+Interactive AI systems that stay **usable for people with disabilities** — from field research and requirements to working desktop prototypes and evaluation.
 
-- ACM IUI ’26 first author (GAIA design principles)
-- CHI EA ’25 co-first author
-- Lead Student Researcher, Games and Life Lab (GAIA; partners on CV are collaborations, not employment)
+### Flagship
+| | |
+|---|---|
+| **GAIA** | Conversational game AI assistant for players with disabilities. Lead Student Researcher (KAIST). Partners on the CV are **collaborations, not employment**. |
+| **Paper** | ACM **IUI ’26** first author · **CHI EA ’25** co-first |
+| **Ethical Research** | MIT-licensed research copilot that **refuses ghostwriting / fake citations** |
 
-## Note for recruiters
-
-Public GitHub is intentionally small and sanitized. Full CV, publications, patent (co-inventor), and industry freelance work are on the [portfolio](https://ji-hun-git.github.io/).
+### Recruiter note
+This GitHub is intentionally **small and sanitized**. Full CV, publications, patent (**co-inventor**), freelance DQM engineering, and awards: **[ji-hun-git.github.io](https://ji-hun-git.github.io/)**.
